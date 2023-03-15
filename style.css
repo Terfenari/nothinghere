@@ -1,0 +1,9 @@
+.a{
+    align-items: center;
+    justify-content: center;
+    
+    min-height: 100vh;
+    text-align: center;
+    position:relative;
+     background: linear-gradient(#00f7ff,#bcf3ff);
+  }
